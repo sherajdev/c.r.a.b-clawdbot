@@ -12,4 +12,4 @@ This project was built using [clawd.bot](https://clawd.bot/)
 
 ---
 
-Made with ❤️ by [sherajdev](https://github.com/sherajdev)
+Made with 🦀 by [sherajdev](https://github.com/sherajdev)
